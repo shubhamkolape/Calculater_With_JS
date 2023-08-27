@@ -12,7 +12,7 @@ Welcome to the Calculator App! This is a simple calculator built using HTML, CSS
 
 ## Demo
 
-Check out the live demo of the Calculator App [here](https://your-demo-link.com).
+Check out the live demo of the Calculator App [here](https://helpful-sable-f49fa8.netlify.app/).
 
 ## Installation
 
